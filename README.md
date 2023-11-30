@@ -1,2 +1,2 @@
 # RealPhone
- Created a simple webpage
+ Created a simple webpage using HTML, CSS and little JS.
